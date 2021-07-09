@@ -35,7 +35,7 @@ In meeting the minimum viable product (MVP) specifications listed below, your pr
 Your finished project must include all of the following requirements:
 
 #### NPM Scripts
-
+   
 A _"test"_ script already exists you can use to run tests against your code.
 A _"resetdb"_ script exists that allows you to reset the database to its original state.
 
